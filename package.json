@@ -1,0 +1,33 @@
+{
+  "name": "drawwave",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrestaBorrigo330/drawwave.git"
+  },
+  "author": "CrestaBorrigo330",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrestaBorrigo330/drawwave/issues"
+  },
+  "homepage": "https://github.com/CrestaBorrigo330/drawwave#readme",
+  "dependencies": {
+    "cytoscape": "^3.28.1",
+    "express": "^4.19.2",
+    "is-array": "^1.0.1",
+    "is-falsy": "^0.0.1",
+    "is-null": "^1.0.1",
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.7.0",
+    "react": "^18.2.0",
+    "uuid": "^9.0.1",
+    "webpack": "^5.91.0",
+    "cyto-designer": "^1.0.0",
+    "cyto-reporter": "^1.0.0"
+  }
+}
